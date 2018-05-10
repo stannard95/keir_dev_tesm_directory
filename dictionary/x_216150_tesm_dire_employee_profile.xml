@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
-    <element label="Employee Profile" max_length="40" name="x_216150_tesm_dire_employee_profile" type="collection"/>
-</database>

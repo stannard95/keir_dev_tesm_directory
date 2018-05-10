@@ -2,28 +2,28 @@
 <record_update sys_domain="global" table="sys_ui_module">
     <sys_ui_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Employee Profile">0185d2acdb46d3409da39245db9619de</application>
+        <application display_value="Employee Profiles">a347d2a0db86d3409da39245db96190a</application>
         <filter/>
         <name>Employee Profiles</name>
         <order/>
         <path/>
         <path_relative_to_root>false</path_relative_to_root>
-        <roles>x_216150_tesm_dire.employee_profile_user</roles>
+        <roles>x_216150_tesm_dire.employee_profiles_user</roles>
         <sys_class_name>sys_ui_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-05-10 08:40:48</sys_created_on>
+        <sys_created_on>2018-05-10 08:48:36</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>5d85d2acdb46d3409da39245db9619df</sys_id>
+        <sys_id>ef47d2a0db86d3409da39245db96190b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Employee Profiles</sys_name>
         <sys_package display_value="TESM Directory" source="x_216150_tesm_dire">3b225268db06d3409da39245db9619c8</sys_package>
         <sys_policy/>
         <sys_scope display_value="TESM Directory">3b225268db06d3409da39245db9619c8</sys_scope>
-        <sys_update_name>sys_ui_module_5d85d2acdb46d3409da39245db9619df</sys_update_name>
+        <sys_update_name>sys_ui_module_ef47d2a0db86d3409da39245db96190b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-05-10 08:40:48</sys_updated_on>
-        <table>x_216150_tesm_dire_employee_profile</table>
+        <sys_updated_on>2018-05-10 08:48:36</sys_updated_on>
+        <table>x_216150_tesm_dire_employee_profiles</table>
         <uncancelable>false</uncancelable>
         <view_name/>
     </sys_ui_module>

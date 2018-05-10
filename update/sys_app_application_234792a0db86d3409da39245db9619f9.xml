@@ -15,16 +15,16 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>234792a0db86d3409da39245db9619f9</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Employee Profiles</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>TESM Directory</sys_name>
         <sys_overrides/>
         <sys_package display_value="TESM Directory" source="x_216150_tesm_dire">3b225268db06d3409da39245db9619c8</sys_package>
         <sys_policy/>
         <sys_scope display_value="TESM Directory">3b225268db06d3409da39245db9619c8</sys_scope>
         <sys_update_name>sys_app_application_234792a0db86d3409da39245db9619f9</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-05-10 08:48:36</sys_updated_on>
-        <title>Employee Profiles</title>
+        <sys_updated_on>2018-05-10 08:49:55</sys_updated_on>
+        <title>TESM Directory</title>
         <view_name/>
     </sys_app_application>
 </record_update>
